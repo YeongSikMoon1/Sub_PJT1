@@ -1,0 +1,48 @@
+.header {
+  height: 5vh;
+  padding: 1rem;
+  color: white;
+  background: teal;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contents {
+    display: flex;
+    width: 96%;
+    height: 100%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;    
+}
+.logo {
+    width: 45px;
+    height: 45px;
+    opacity: 80;
+    margin :5px
+}
+
+.search {
+    width: 45px;
+    height: 45px;
+    opacity: 80;
+    margin :5px
+}
+
+.hamburger {
+    width: 45px;
+    height: 45px;
+    opacity: 80;
+    margin :5px
+}
+
+.navigation ul {
+  display: flex;
+  list-style: none;
+}
+
+.navigation li {
+    margin: 15px;
+}
